@@ -84,7 +84,7 @@ app.get('/about', (req, res) => {
     paragraphs: [
       'Hello, I am James Huang.',
       'I am a student at New York University studying Computer Science.',
-      'I cannot find a good photo of myself, so here is a picture of my dog QiuQiu:'
+      'I cannot find a good photo of myself, so here is a photo of my dog QiuQiu:'
     ],
     imageUrl: '/QiuQiu.jpg',
   })
